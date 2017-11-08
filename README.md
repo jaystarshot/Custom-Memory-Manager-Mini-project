@@ -19,5 +19,4 @@ Based on IBM Build your own C++ projects
 It is based on - https://www.ibm.com/developerworks/aix/tutorials/au-memorymanager/index.html
 
 By
-Arpan Sen and Rahul Kardam
-Published on February 19, 2008
+Arpan Sen and Rahul Kardam (original Ideators)
