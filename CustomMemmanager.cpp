@@ -1,14 +1,14 @@
 #include <sys/types.h> 
 #include <bits/stdc++.h>
 
-using namespace std;
+using namespace std;  
 
 
 class MemoryManager//our custom Memory Manager
 { 
   struct FreeStore //This Is our Custom Struct To link up Free Blocks like a Linked list
     {
-     FreeStore *next;//Each is connected to the next using the next Pointer
+      FreeStore *next;//Each is connected to the next using the next Pointer
     }; 
   void expandPoolSize ();//This Function Expands the Pool of our blocks by adding more Free Variables 
   void cleanUp ();//We clean up the Free Pool using this function
