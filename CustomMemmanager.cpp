@@ -106,6 +106,6 @@ void MemoryManager::cleanUp()
       }
     }
     t = clock()-t;
-    cout<<"It took us "<<((float)t)/CLOCKS_PER_SEC<<" secs"<<endl;
+    cout<<"It took us "<< ((float)t)/CLOCKS_PER_SEC<<" secs"<<endl;
   return 0;
   }
