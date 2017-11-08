@@ -8,7 +8,7 @@ Also Custom contains the custom memory manager code thoroughly explained.
 Default is the program which uses the default C++ memory management.
 
 In I-5 Processors (8 GB RAM) 
-Each iteration of the outermost loop causes 1000 allocations and deallocations. 5000 such iterations result in 10 million switches between user and kernel code. Compiling this test on a gcc  in an Intel I5 machine took an average of 0.168477 seconds.Our Custom Memory Manager Takes 0.105 seconds roughly 25% improvement in Time which is a drastic change.
+Each iteration of the outermost loop causes 1000 allocations and deallocations. 5000 such iterations result in 10 million switches between user and kernel code. Compiling this test on a gcc compiler in an Intel I5 machine took an average of 0.168477 seconds.Our Custom Memory Manager Takes 0.105 seconds roughly 25% improvement in Time which is a drastic change.
 
 
 
