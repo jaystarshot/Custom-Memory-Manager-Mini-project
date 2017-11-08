@@ -1,4 +1,4 @@
-# Ibm-C-Memory-Manager-Made-Easy
+# Custom C++ Memory-Manager-Made-Easy
 This Repository basically contains the explained code of the IBM C++Memory Made Easy Custom Memory Manager
 This is a useful mini Computer Science Project.
 
@@ -18,5 +18,6 @@ Each iteration of the outermost loop causes 1000 allocations and deallocations. 
 Based on IBM Build your own C++ projects
 It is based on - https://www.ibm.com/developerworks/aix/tutorials/au-memorymanager/index.html
 
+By
 Arpan Sen and Rahul Kardam
 Published on February 19, 2008
