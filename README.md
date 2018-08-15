@@ -16,7 +16,4 @@ Each iteration of the outermost loop causes 1000 allocations and deallocations. 
 
 
 Based on IBM Build your own C++ projects
-It is based on - https://www.ibm.com/developerworks/aix/tutorials/au-memorymanager/index.html
 
-By
-Arpan Sen and Rahul Kardam (Original Ideators)
